@@ -1,0 +1,62 @@
+0 40
+1 45
+2 Compulsory horn
+3 Compulsory keep Left
+4 Compulsory turn left and go ahead
+5 Compulsory turn right and go ahead
+6 Compulsory turn left
+7 Compulsory turn right
+8 Cross Road
+9 Compulsory Go ahead
+10 Dangerous dig 
+11 Eating Place
+12 First aid post
+13 Gap In median
+14 Guarded level Crossing Road
+15 Give way
+16 Horn Prohibited
+17 Hospital
+18 Hump of Rough Road
+19 Left Hair Pin Bend
+20 Left Hand Curve
+21 Left Reverse Bend
+22 Left Turn Prohibited
+23 Light Refreshment
+24 Loose Gravel 
+25 Major Road Ahead
+26 Men At Work
+27 Narrow Bridge
+28 No Entry
+29 Narrow Road Ahead
+30 No Way Both Direction
+31 One Way Direction
+32 Overtaking
+33 Overtaking Prohibited
+34 Parking This Side
+35 Parking Lot Cars
+36 Parking Lot Scooters And MotorCycle
+37 Parking Lot Cycles
+38 Pedestrian Crossing Road
+39 Petrol Pump
+40 Public Telephone
+41 Resting Place
+42 Right Hair Pin Bend
+43 Right Hand Curve
+44 Right Reverse Bend
+45 Right Turn Prohibited
+46 Road Widen Ahead
+47 Roundabout Turn
+48 School Ahead
+49 Side Road Left
+50 Side Road Right
+51 Slippery Road Ahead
+52 Steep Ascent
+53 Steep Descent
+54 Stop
+55 T Intersection
+56 U Turn Prohibited
+57 Ungaurded Level Crossing Road
+58 Y Intersection
+59 Thoroughly Road
+60 Thoroughly Side Road
+61 Straggered Intersection 
